@@ -12,7 +12,7 @@ My research interests lie broadly in space weather, spectropolarimetry, and scie
 
 ### Links
 
-[Google My Citations](https://scholar.google.com/citations?user=bBh-w1UAAAAJ&hl=en)
+[My Google Scholar](https://scholar.google.com/citations?user=bBh-w1UAAAAJ&hl=en)
 
 [My publications in NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/LJeOQSwTT_aH9HNOVztdkg)
 
