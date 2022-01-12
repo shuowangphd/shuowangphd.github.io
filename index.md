@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+![Image](180_ns.jpg)
 
-You can use the [editor on GitHub](https://github.com/shuowangphd/shuowangphd.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Shuo Wang Ph.D.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Postdoc
 
-### Markdown
+[Department of Astronomy](https://astro.nmsu.edu/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[New Mexico State University](https://www.nmsu.edu/)
 
-```markdown
-Syntax highlighted code block
+[DKIST Ambassordor](https://nso.edu/ncsp/dkist-ambassadors/)
 
-# Header 1
-## Header 2
-### Header 3
+shuowang at nmsu.edu
 
-- Bulleted
-- List
+[Google My Citations](https://scholar.google.com/citations?user=bBh-w1UAAAAJ&hl=en)
 
-1. Numbered
-2. List
+[My publications in NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/LJeOQSwTT_aH9HNOVztdkg)
 
-**Bold** and _Italic_ and `Code` text
+[My ORCID 0000-0001-5589-0416](https://orcid.org/0000-0001-5589-0416)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shuowangphd/shuowangphd.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[My GitHub](https://github.com/shuowangphd)
