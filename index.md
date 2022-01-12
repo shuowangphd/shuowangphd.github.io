@@ -1,16 +1,16 @@
 ![Image](180_ns.jpg)
 
-### Shuo Wang Ph.D.
-
-Postdoc
-
-[Department of Astronomy](https://astro.nmsu.edu/)
-
-[New Mexico State University](https://www.nmsu.edu/)
-
-[DKIST Ambassordor](https://nso.edu/ncsp/dkist-ambassadors/)
+## Shuo Wang Ph.D.
 
 shuowang at nmsu.edu
+
+I am a postdoctoral researcher in [Department of Astronomy](https://astro.nmsu.edu/) at [New Mexico State University](https://www.nmsu.edu/). I am also a [DKIST Ambassador](https://nso.edu/ncsp/dkist-ambassadors/).
+
+My research interests lie broadly in space weather, spectropolarimetry, and scientific image processing.
+
+
+
+### Links
 
 [Google My Citations](https://scholar.google.com/citations?user=bBh-w1UAAAAJ&hl=en)
 
