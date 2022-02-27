@@ -8,7 +8,8 @@ I am a postdoctoral researcher in [Department of Astronomy](https://astro.nmsu.e
 
 My research interests lie broadly in space weather, spectropolarimetry, and scientific image processing.
 
-
+### Press Releases
+[Chasing a Solar Filament, AAS Nova, Feb. 25, 2022.](https://aasnova.org/2022/02/25/chasing-a-solar-filament/)
 
 ### Links
 
