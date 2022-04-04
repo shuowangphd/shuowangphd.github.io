@@ -11,7 +11,7 @@ My research interests lie broadly in space weather, spectropolarimetry, and scie
 ### Press Releases
 [Chasing a Solar Filament, AAS Nova, Feb. 25, 2022.](https://aasnova.org/2022/02/25/chasing-a-solar-filament/)
 
-[Scientists Conclude Chromospheric Spectral Observations Can Be Used to Detect the Initial Phase of Solar Filament Eruptions](https://nso.edu/blog/chromospheric-spectral-observations-can-be-used-to-detect-the-initial-phase-of-solar-filament-eruptions/)
+[Scientists Conclude Chromospheric Spectral Observations Can Be Used to Detect the Initial Phase of Solar Filament Eruptions, NSO, Apr. 4, 2022.](https://nso.edu/blog/chromospheric-spectral-observations-can-be-used-to-detect-the-initial-phase-of-solar-filament-eruptions/)
 
 ### Links
 
