@@ -4,9 +4,9 @@
 
 shuowang at nmsu.edu
 
-I am a postdoctoral researcher in [Department of Astronomy](https://astro.nmsu.edu/) at [New Mexico State University](https://www.nmsu.edu/). I am also a [DKIST Ambassador](https://nso.edu/ncsp/dkist-ambassadors/).
+I am a postdoctoral research assistant in the [Center for Space Plasma and Aeronomic Research](https://www.uah.edu/cspar) at [University of Alabama in Huntsville](https://www.uah.edu/).
 
-My research interests lie broadly in space weather, spectropolarimetry, and scientific image processing.
+My research interests lie broadly in space science, space weather, spectropolarimetry, and scientific image processing.
 
 ### Press Releases
 [Chasing a Solar Filament, AAS Nova, Feb. 25, 2022.](https://aasnova.org/2022/02/25/chasing-a-solar-filament/)
