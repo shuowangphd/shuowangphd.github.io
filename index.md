@@ -2,7 +2,7 @@
 
 ## Shuo Wang Ph.D.
 
-shuowang at nmsu.edu
+shuo.wang at uah d0t edu
 
 I am a postdoctoral research assistant in the [Center for Space Plasma and Aeronomic Research](https://www.uah.edu/cspar) at [University of Alabama in Huntsville](https://www.uah.edu/).
 
