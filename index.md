@@ -11,3 +11,6 @@ I am actively seeking internship or entry-level job opportunities in the field o
 ### Links
 
 [My GitHub](https://github.com/shuowangphd)
+
+### Projects
+[Bear classifier using artificial intelligence](https://huggingface.co/spaces/swang460/bear)
