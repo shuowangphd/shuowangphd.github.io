@@ -6,7 +6,7 @@ swang460 at asu d0t edu
 
 I am currently pursuing a master's degree in computer science as a graduate student at [Arizona State University](https://www.asu.edu/).
 
-I am actively seeking internship or entry-level job opportunities in the field of software development or related IT roles.
+I am actively seeking job opportunities. I have a PhD degree in physics focusing on image analysis and machine learning.
 
 ### Links
 
